@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\wl-sips-portal-opbeat\UK-SIPS-Portal\conf\application.conf,C:\wl-sips-portal-opbeat\UK-SIPS-Portal\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\wl-sips-portal-opbeat\UK-SIPS-Portal\conf\logback.xml,C:\wl-sips-portal-opbeat\UK-SIPS-Portal\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\wl-sips-portal-opbeat\UK-SIPS-Portal\conf\prod.conf,C:\wl-sips-portal-opbeat\UK-SIPS-Portal\target\scala-2.11\classes\prod.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\wl-sips-portal-opbeat\UK-SIPS-Portal\conf\routes,C:\wl-sips-portal-opbeat\UK-SIPS-Portal\target\scala-2.11\classes\routes)[0m
